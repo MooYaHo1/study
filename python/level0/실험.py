@@ -4,6 +4,9 @@
 #     print(w[i[0]])
 
 
-a = [1,2,3,4,5,6,7]
-
-print(a[1:4])
+# a = [[1,2],[3,4],[5,6],[7,8]]
+# for b,c in a:
+#     print(b,c)
+a='baaaaa'
+for i in range(len(a)):
+    print(i)
