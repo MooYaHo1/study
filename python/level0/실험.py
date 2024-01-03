@@ -7,6 +7,9 @@
 # a = [[1,2],[3,4],[5,6],[7,8]]
 # for b,c in a:
 #     print(b,c)
-a='baaaaa'
-for i in range(len(a)):
-    print(i)
+# a='baaaaa'
+# for i in range(len(a)):
+#     print(i)
+
+print(ord('P'))
+print(ord('A'))
