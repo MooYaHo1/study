@@ -15,3 +15,8 @@ for index, element in enumerate(my_list):
 abs() #정수표기
 
 #--------------
+ord(0) # 아스키 값  리턴
+print(ord('a'))
+
+#----------
+set() #이거 사용하면 중복제거
